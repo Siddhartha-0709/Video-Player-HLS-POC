@@ -58,3 +58,5 @@ This is a POC and not meant for production use. The server does not handle video
 
 ## Detailed Blog and Documentation Used
 [ChaiCode Video Streaming Tutorial](https://chaicode.com/blogs/full-stack-video-streaming-platform)
+
+[CloudFlare- What is HLS: HTTP Live Streaming](https://www.cloudflare.com/learning/video/what-is-http-live-streaming/)
